@@ -1,0 +1,8 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Apple generated map metadata files
+.DS_Store
